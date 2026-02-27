@@ -4,4 +4,6 @@ pytz
 supabase
 httpx
 datetime
+
 Authlib
+streamlit_js_eval
