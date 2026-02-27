@@ -7,3 +7,4 @@ datetime
 
 Authlib
 streamlit_js_eval
+streamlit[auth]
